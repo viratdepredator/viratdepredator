@@ -23,7 +23,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=viratdepredator&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
@@ -98,7 +98,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
@@ -119,4 +118,3 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yashitanamdeo's Holopin board](https://holopin.io/api/user/board?user=yashitanamdeo)](https://holopin.io/@yashitanamdeo)
