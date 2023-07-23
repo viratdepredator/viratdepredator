@@ -104,7 +104,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <br/>
 </details>
 
-<!-- https://github.com/sisodiya2421 -->
+## 💻 Coding Profile
+<p align="center">
+	<a href="https://auth.geeksforgeeks.org/user/viratku0804" target="_blank"><img src="https://img.icons8.com/bubbles/50/code-file--v2.png" alt="GeeksforGeeks"/></a>
+	<a href="https://www.hackerrank.com/virats615?hr_r=1" target="_blank"><img src="https://img.icons8.com/bubbles/50/hacking.png" alt="HackerRank"/></a>
+	<a href="https://www.freecodecamp.org/fcc285ad1c9-d6d7-40dc-94e6-076c7bbeb8c0" target="_blank"><img src="https://img.icons8.com/bubbles/50/hacking.png" alt="freeCodeCamp"/></a>
+	<a href="https://www.codechef.com/users/viratdepredato" target="_blank"><img src="https://img.icons8.com/bubbles/50/codechef.png" alt="CodeChef"/></a>
+</p>
 
 ## 🙋‍♀️ Let's Connect
 
