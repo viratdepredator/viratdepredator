@@ -18,6 +18,21 @@ Hi, I'm Virat Kumar!
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+      <strong>Recent IT Graduate | Full Stack Developer | IoT & AI Enthusiast</strong>
+      </p>
+      <p>I'm a software developer who loves building web applications and experimenting with new technologies. I enjoy solving problems, learning new things, and turning ideas into reality through code.</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/HiMaN108/weather-profile/main/assets/weather.png" alt="Weather" width="100">
+    </td>
+  </tr>
+</table>
+
+
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
